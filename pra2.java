@@ -3,7 +3,7 @@ public class pra2 {
 
 
 	      int i = 1;
-            while(i <= 101){
+            while(i <= 100){
 
 System.out.println("Hello Would");
 i = i + 1;
