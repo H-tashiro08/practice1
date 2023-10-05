@@ -3,4 +3,6 @@ public class pra2 {
 
 System.out.println("Hello Would");
 
+	    }
+}
 
